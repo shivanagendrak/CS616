@@ -1,3 +1,4 @@
+#Name = Shiva Nagendra Babu
 user = int(input("Enter the First Number: "))
 user1 = int(input("Enter the Second Number: "))
 user2 = int(input("Enter the Third Number: "))
